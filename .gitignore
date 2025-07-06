@@ -1,0 +1,22 @@
+# Ignore dataset folder
+/dataset/
+/*.wav
+
+# Common folders
+__pycache__/
+.ipynb_checkpoints/
+
+# Jupyter & Python
+*.ipynb
+*.pyc
+*.pkl
+
+# Environment/IDE
+.env
+*.env
+.venv/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
